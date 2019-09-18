@@ -25,6 +25,9 @@
 
 ## usage
 ### incase you are building with postgres database, you need to install it and the nodejs 'pg' package
+> npm install --save pg
+
+> setup database configuration at the configDB.js file in the model
 
 ## running and testing
 ### starting the server
